@@ -2,16 +2,15 @@
 
 #### Now
 
-- ✨ Contributing to [chkware](https://github.com/chkware/cli);
-- :fire: Interested in DevOps and Cloud engineering;
-- :calendar: Looking for contributing to python based open source projects 
+- :fire: Interested in Data sCience and Data engineering;
+- :calendar: Looking for contributing to python or MATLAB based open source projects 
 
 #### Bio
 
-- 🏢 I'm currently working at **BRAC IT**
-- ⚙️ I use daily: `.py`, `.js`, `.yml`, `.sh`
-- 🌍 I'm mostly active within the **Python Community**
-- 🌱 Learning all about **DevOps**
+- 🏢 I'm currently working at **Gyan Data**
+- ⚙️ I use daily: `.py`, `.js`, `.m`
+- 🌍 I'm mostly active within the **Python Community** and **MATLAB Community**
+- 🌱 Learning all about **Data Science** in **Supply chain**
 - 💬 Ping me about **Django**, **Python**, **Docker**, **RestAPIs**, **Keycloak**
 - 📫 Reach me: [twitter.com/sudiptob2](https://twitter.com/sudiptob2)
 - 📝 Checkout my [Resume](files/resume.pdf).
