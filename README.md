@@ -17,7 +17,7 @@
 
 #### My Current Stack
 
-<img height="48" src="img/python-original.svg" alt="python"> 
+<img height="48" src="python-original.svg" alt="python"> 
 
 #### Development Stuffs:
 
