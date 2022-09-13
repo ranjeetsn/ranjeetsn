@@ -2,17 +2,17 @@
 
 #### Now
 
-- :fire: Interested in Data sCience and Data engineering;
+- :fire: Interested in Data Science and Data Engineering;
 - :calendar: Looking for contributing to python or MATLAB based open source projects 
 
 #### Bio
 
 - 🏢 I'm currently working at **Gyan Data**
-- ⚙️ I use daily: `.py`, `.js`, `.m`
+- ⚙️ I use daily: `.py`, `.m`
 - 🌍 I'm mostly active within the **Python Community** and **MATLAB Community**
 - 🌱 Learning all about **Data Science** in **Supply chain**
-- 💬 Ping me about **Django**, **Python**, **Docker**, **RestAPIs**, **Keycloak**
-- 📫 Reach me: [twitter.com/sudiptob2](https://twitter.com/sudiptob2)
+- 💬 Ping me about **Python**, **MATLAB**
+- 📫 Reach me: [ranjeet.sn96@gmail.com]
 - 📝 Checkout my [Resume](files/resume.pdf).
 
 #### My Current Stack
