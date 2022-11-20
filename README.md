@@ -42,7 +42,7 @@
 <a href="https://linkedin.com/in/ranjeet-nagarkar-772060104">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 </a> 
-<a href="https://medium.com/@sudiptob2">
+<a href="https://medium.com/@ranjeet.sn96">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height=25>
 </a>
 <a href="mailto:ranjeet.sn96@gmail.com">
