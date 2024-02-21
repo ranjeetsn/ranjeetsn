@@ -6,12 +6,12 @@
 - :calendar: Looking for contributing to python or MATLAB based open source projects 
 
 #### Bio
-
-- 🏢 I'm currently working at **Gyan Data**
-- ⚙️ I use daily: `.py`, `.m`
+- 🏢 I am current studying at **University of San Francisco**, doing a Master of Data Science(July 2023 - June 2024)
+- 🏢 I have worked at **Gyan Data** for 2 years
+- ⚙️ I use daily: `.py`, `.ipynb`
 - 🌍 I'm mostly active within the **Python Community** and **MATLAB Community**
-- 🌱 Learning all about **Data Science** in **Supply chain**
-- 💬 Ping me about **Python**, **MATLAB**
+- 🌱 Learning all about **Data Science** in **Supply chain**, **Product Development**
+- 💬 Ping me about **Python**, **LLM product development**,**MATLAB**
 - 📫 Reach me: [ranjeet.sn96@gmail.com]
 - 📝 Checkout my [Resume](CV_21_11_22.pdf).
 
