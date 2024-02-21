@@ -13,7 +13,7 @@
 - 🌱 Learning all about **Data Science** in **Supply chain**, **Product Development**
 - 💬 Ping me about **Python**, **LLM product development**,**MATLAB**
 - 📫 Reach me: [ranjeet.sn96@gmail.com]
-- 📝 Checkout my [Resume](CV_21_11_22.pdf).
+- 📝 Checkout my [Resume](Ranjeet_Resume.pdf).
 
 #### My Current Stack
 
