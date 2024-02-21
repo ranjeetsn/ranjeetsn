@@ -11,7 +11,7 @@
 - ⚙️ I use daily: `.py`, `.ipynb`
 - 🌍 I'm mostly active within the **Python Community** and **MATLAB Community**
 - 🌱 Learning all about **Data Science** in **Supply chain**, **Product Development**
-- 💬 Ping me about **Python**, **LLM product development**,**MATLAB**
+- 💬 Ping me about **Python**, **LLM product development**,**Machine Learning**, **Deep Learning**,**MATLAB**, **Pytorch**
 - 📫 Reach me: [ranjeet.sn96@gmail.com]
 - 📝 Checkout my [Resume](Ranjeet_Resume.pdf).
 
