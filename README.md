@@ -1,10 +1,10 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, SQL, AWS, Snowflake, Airflow, MongoDB, MATLAB
 
 ## Education
 - M.S. Data Science	| University of San Francisco California (_June 2024_)	 			        		
-- B.Tech. Chemical Engineering |  Indian Institute of Technology Madras, Chennai (_July 2019_)
+- B.Tech. Chemical Engineering |  Indian Institute of Technology Madras, Chennai (_August 2015-July 2019_)
 
 ## Work Experience
 **Machine Learning Engineer, Internship Startup @ Dataknobs (_October 2023 - Present_)**
