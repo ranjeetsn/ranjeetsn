@@ -1,52 +1,52 @@
-## Hi 👋, I'm a Data Scientist working in Chennai, India
+# Data Scientist
 
-#### Now
+#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
-- :fire: Interested in Data Science and Data Engineering;
-- :calendar: Looking for contributing to python or MATLAB based open source projects 
+## Education
+- M.S. Data Science	| University of San Francisco California (_June 2024_)	 			        		
+- B.Tech. Chemical Engineering |  Indian Institute of Technology Madras, Chennai (_July 2019_)
 
-#### Bio
-- 🏢 I am current studying at **University of San Francisco**, doing a Master of Data Science(July 2023 - June 2024)
-- 🏢 I have worked at **Gyan Data** for 2 years
-- ⚙️ I use daily: `.py`, `.ipynb`
-- 🌍 I'm mostly active within the **Python Community** and **MATLAB Community**
-- 🌱 Learning all about **Data Science** in **Supply chain**, **Product Development**
-- 💬 Ping me about **Python**, **LLM product development**,**Machine Learning**, **Deep Learning**,**MATLAB**, **Pytorch**
-- 📫 Reach me: [ranjeet.sn96@gmail.com]
-- 📝 Checkout my [Resume](Ranjeet_Resume.pdf).
+## Work Experience
+**Machine Learning Engineer, Internship Startup @ Dataknobs (_October 2023 - Present_)**
+- Scraped and modified over 1000 website templates, creating a scalable and cost-efficient data pipeline for LLM-based website generation
+- LLM Website generation product and concept expected to generate more than $1million in company revenue
+- Estimated cost savings of $300,000 with enhanced dialogue management for improved security and oversight of chatbot products
+- Presented an innovative modular approach for html page creation at Forbes CIO conference, generating significant interest and potential for a multi-million dollar business opportunity.
+- Designed a scalable chatbot framework using DAG architecture and langchain agents library with chain of thought reasoning
+- Chatbot facilitated client interaction with Data Knobs products, using prompt engineering, and Advanced RAG techniques
 
-#### My Current Stack
+**Data Scientist, consultancy @ GyanData (_July 2021 - March 2023_)**
+- Developed a Forecasting model, Natural Language Processing(NLP) and Image classification(CNN) models 
+- Data Analysis and modeling for company clients saving an estimated INR 20 million in equipment procurement cost
+- Identified potential problems in the client-vendor selection process as well as possible solutions amounting worth INR 100 million as part of Business development
 
-<img height="48" src="python-original.svg" alt="python"> <img height="48" src="matlab-org.png" alt="MATLAB"> <img height="48" src="git-original.svg" alt="github"> 
+**Data Scientist and Application Developer, Research @ IIT Madras (_February 2020 - April 2021_)**
+- MATLAB Application development of the XPCA algorithm with more than 5000+ lines of code
+- The project tackled the business challenge of early fault detection and process monitoring savings of 9% in operating costs.
+- Model validation techniques for error-in-variable sensor data and real time data analysis 
 
-#### Development Stuffs:
 
-<b>⚡ Github Stats</b>
-<p float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ranjeetsn&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjeetsn&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
+## Projects
+### LLM website builder
 
-#### Recent Activity
+- Spearheaded the development of an LLM (Large Language Model) website builder application using langchain and llamaindex. 
+- Implemented Advanced RAG (Auto merging retrieval), prompt engineering, and prompt fine-tuning to optimize LLM response.
 
-<p><b> &#9749; Latest Medium Blogs</b></p>
+### LLM agent dialogue managed chatbot
 
-<a target="_blank" href=""><img src="" alt="Latest medium article">
+- Chatbot dialogue management expected to save $300,000 in dialogue management optimization for Dataknobs
+- Orchestrated the creation of an LLM agents managed chatbot, employing DAG graph architecture
+- Conducted end-to-end integration of LLM chatbot functionalities, incorporated Advanced RAG for client vector database retrieval.
 
-#### Connect With Me
+## ARD Process Optimisation project 
+- Streamlined the annual procurement process for the Indian Navy by developing an equipment consumption forecast model. 
+- Resulted in an expected savings of INR 20 lakh.
+- Deployed a fine-tuned BERT model to categorize reasons for order rejection comments, achieving an accuracy rate of 77%
+- Made a CNN image classifier for payment receipts categorization achieving an accuracy of 81% using image augmentation 
 
-<p left="center">
-<a href="https://twitter.com/RanjeetNagarka2">
-  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
-</a> 
-<a href="https://linkedin.com/in/ranjeet-nagarkar-772060104">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
-</a> 
-<a href="https://medium.com/@ranjeet.sn96">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height=25>
-</a>
-<a href="mailto:ranjeet.sn96@gmail.com">
-  <img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
-</a>
-</p>
+## Chemical Processes modeling Application
+- The application resulted in an estimated savings of 9% in fault detection and process monitoring 
+- Facilitated model creation, validation, enhancing efficiency in fault detection, saving approximately 10000+ man hours
+- Engineers use the application for analyzing Error-in-Variable time series sensor data from chemical reactors using Dynamic Iterative Principal component Analysis
 
+- [Data Science Blog](https://medium.com/@ranjeet.sn96)
