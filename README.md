@@ -21,4 +21,4 @@
 - Facilitated model creation, validation, enhancing efficiency in fault detection, saving approximately 10000+ man hours
 - Engineers use the application for analyzing Error-in-Variable time series sensor data from chemical reactors using Dynamic Iterative Principal component Analysis
 
-- [Data Science Blog](https://medium.com/@ranjeet.sn96)
+[Medium Data Science Blog](https://medium.com/@ranjeet.sn96)
